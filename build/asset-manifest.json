@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.480ba89e.chunk.css",
+    "main.js": "/static/js/main.1c3927d0.chunk.js",
+    "main.js.map": "/static/js/main.1c3927d0.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.f76bf850.chunk.js": "/static/js/2.f76bf850.chunk.js",
+    "static/js/2.f76bf850.chunk.js.map": "/static/js/2.f76bf850.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.e29b3acbbc40ff57cc5b38b936d1bc75.js": "/precache-manifest.e29b3acbbc40ff57cc5b38b936d1bc75.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.480ba89e.chunk.css.map": "/static/css/main.480ba89e.chunk.css.map",
+    "static/media/index.css": "/static/media/Pixel-LCD-7.e2897552.woff",
+    "static/media/bg.png": "/static/media/bg.2810fe6b.png"
+  }
+}
